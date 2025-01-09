@@ -2,10 +2,10 @@
 
 <br><br>
  
-Zore is a virtual assistant developed to perform various tasks using voice commands. The project is designed as a simple, interactive web-based assistant with a microphone interface for activating and deactivating voice recognition features.
+Zore is a virtual assistant developed to perform various tasks using voice commands. The project is designed as a simple, interactive web-based assistant with a microphone interface for activating and deactivating voice recognition features. <br><br>
  ![{1F988CC6-DB6E-4798-BCFA-5C5297D47B25}](https://github.com/user-attachments/assets/d89b455c-8f2a-4038-a43a-7ade1e07a775)
 
-
+<br><br><br>
 Table of Contents
 Features
 Technologies Used
