@@ -1,8 +1,7 @@
  <h1>Zore - Virtual Assistant </h1>
 
 <br><br>
-![{C9C038AF-265E-4278-986D-2BA6A482FF06}](https://github.com/user-attachments/assets/7fa9c749-8c17-40b7-ada2-6353a525fa9c)
-
+ ![Uploading {1F988CC6-DB6E-4798-BCFA-5C5297D47B25}.png…]()
 
 Zore is a virtual assistant developed to perform various tasks using voice commands. The project is designed as a simple, interactive web-based assistant with a microphone interface for activating and deactivating voice recognition features.
 ![Uploading {C9C038AF-265E-4278-986D-2BA6A482FF06}.png…]()
